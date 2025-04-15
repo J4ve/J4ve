@@ -1,7 +1,7 @@
 
 # Hi, I'm Jave 👋
 
-Welcome to my GitHub profile. I share personal projects, experiments, and occasionally some academic work. I'm always exploring ideas around AI, automation, and web development—just trying to building things that are both useful and interesting.
+Welcome to my GitHub profile. I share personal projects, experiments, and occasionally some academic work. I'm always exploring ideas around AI, automation, game and web development.
 
 ---
 
@@ -36,7 +36,7 @@ Welcome to my GitHub profile. I share personal projects, experiments, and occasi
 ---
 
 ### 💡 About Me
-I play video games, make music, and I'm passionate about solving real-world problems with code. Whether it’s a side project, some automation, or just experimenting with AI, I’m all about making things that work and learning along the way. Always improving, always building.
+I play video games, make music, and I'm passionate about solving real-world problems with code.
 
 ---
 
