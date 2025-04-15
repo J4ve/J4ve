@@ -28,7 +28,9 @@ Welcome to my GitHub profile. I share personal projects, experiments, and occasi
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-9E2A2F?style=flat&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
 </p>
+
 
 #### 🌐 Frontend
 <p>
