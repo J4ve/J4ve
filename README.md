@@ -40,6 +40,9 @@ I'm passionate about solving real-world problems with code. Whether it’s a sid
 
 ### 📬 Connect
 If you're down to collaborate or just wanna chat, feel free to reach out via **[Discord]** or open an issue on any of my repositories.
+Discord username: J4ve
+Reddit: https://www.reddit.com/user/Jave01/
+Facebook: https://www.facebook.com/BacsainJave
 
 ---
 
