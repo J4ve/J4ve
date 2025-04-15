@@ -27,7 +27,13 @@ Welcome to my GitHub profile. I share personal projects, experiments, and occasi
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
 </p>
 
-#### ⚙️ Tools & Workflow
+#### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+</p>
+
+#### 🛠️ Tools & Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
