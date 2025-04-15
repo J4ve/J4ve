@@ -36,14 +36,14 @@ Welcome to my GitHub profile. I share personal projects, experiments, and occasi
 ---
 
 ### 💡 About Me
-I'm passionate about solving real-world problems with code. Whether it’s a side project, some automation, or just experimenting with AI, I’m all about making things that work and learning along the way. Always improving, always building.
+I play video games, make music, and I'm passionate about solving real-world problems with code. Whether it’s a side project, some automation, or just experimenting with AI, I’m all about making things that work and learning along the way. Always improving, always building.
 
 ---
 
 ### 📬 Connect
 If you're down to collaborate or just wanna chat, feel free to reach out via **[Discord]** or open an issue on any of my repositories.
 
-Discord username: J4ve
+Discord username: J4ve (old: J4ve#1329)
 
 Reddit: https://www.reddit.com/user/Jave01/
 
