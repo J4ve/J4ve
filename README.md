@@ -24,6 +24,7 @@ Welcome to my GitHub profile. I share personal projects, experiments, and occasi
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-9E2A2F?style=flat&logo=seaborn&logoColor=white" />
@@ -46,6 +47,7 @@ Welcome to my GitHub profile. I share personal projects, experiments, and occasi
 
 #### 🛠️ Tools & Workflow
 <p>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
@@ -68,6 +70,8 @@ Discord username: J4ve (old: J4ve#1329)
 Reddit: https://www.reddit.com/user/Jave01/
 
 Roblox: https://www.roblox.com/users/115417648/profile
+
+Steam: https://steamcommunity.com/id/J4ve/
 
 ---
 
