@@ -45,8 +45,6 @@ Discord username: J4ve
 
 Reddit: https://www.reddit.com/user/Jave01/
 
-Facebook: https://www.facebook.com/BacsainJave
-
 ---
 
 Thanks for stopping by!
