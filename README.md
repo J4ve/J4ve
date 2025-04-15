@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I share personal projects, experiments, and occasi
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools (Learned + Currently Learning)
 
 #### 💻 Languages
 <p>
