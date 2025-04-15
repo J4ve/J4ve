@@ -1,7 +1,7 @@
 
 # Hi, I'm Jave 👋
 
-Welcome to my GitHub profile. I share personal projects, experiments, and occasionally some academic work. I'm always exploring ideas around AI, automation, and cybersecurity—just building things that are both useful and interesting.
+Welcome to my GitHub profile. I share personal projects, experiments, and occasionally some academic work. I'm always exploring ideas around AI, automation, and web development—just trying to building things that are both useful and interesting.
 
 ---
 
