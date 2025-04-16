@@ -1,7 +1,7 @@
 
 # Hi, I'm Jave 👋
 
-Welcome to my GitHub profile. I share personal projects, experiments, and occasionally some academic work. I'm always exploring ideas around AI, automation, game and web development.
+Welcome to my GitHub profile. I share personal projects, fork random stuff, make experiments, and occasionally some academic work. I'm always exploring ideas around AI, automation, game and web development.
 
 ---
 
@@ -65,12 +65,12 @@ Welcome to my GitHub profile. I share personal projects, experiments, and occasi
 ---
 
 ### 💡 About Me
-I play video games, make music, and I'm passionate about solving real-world problems with code.
+I play video games, make/teach music, and I'm passionate about solving real-world problems with code.
 
 ---
 
 ### 📬 Connect
-If you're down to collaborate or just wanna chat, feel free to reach out via **[Discord]** or open an issue on any of my repositories.
+If you're down to collaborate or just wanna chat, feel free to reach out or open an issue on any of my repositories.
 
 Discord username: J4ve (old: J4ve#1329)
 
