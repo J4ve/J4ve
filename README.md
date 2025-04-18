@@ -58,6 +58,7 @@ Welcome to my GitHub profile. I share personal projects, fork random stuff, make
   <img src="https://img.shields.io/badge/pip-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/venv-4B8BBE?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
+  <img src="https://docs.conda.io/en/latest/_images/conda_logo.svg" alt="Conda logo" width="100">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
