@@ -1,7 +1,7 @@
 
 # Hi, I'm Jave 👋
 
-Welcome to my GitHub profile. I share personal projects, fork random stuff, make experiments, and occasionally some academic work. I'm always exploring ideas around AI, automation, game and web development.
+Welcome to my GitHub profile. I share personal projects, fork random stuff, make experiments, and occasionally some academic work. I'm always exploring ideas around AI, automation, game, mobile and web development.
 
 ---
 
