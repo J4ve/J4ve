@@ -34,16 +34,11 @@
 <p align="center">
   If you're down to collaborate or just want to chat, feel free to reach out!
 </p>
-
-**Connect with me:**  
-
-**Connect with me:**  
-
 <p align="center">
-  <a href="https://discord.com/users/yourid"><img src="https://cdn.simpleicons.org/discord/5865F2" width="30"/></a>
-  <a href="https://www.reddit.com/user/Jave01/"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="30"/></a>
-  <a href="https://www.roblox.com/users/115417648/profile"><img src="https://cdn.simpleicons.org/roblox/000000" width="30"/></a>
-  <a href="https://steamcommunity.com/id/J4ve/"><img src="https://cdn.simpleicons.org/steam/00ADEE" width="30"/></a>
+  <a href="https://discord.com/users/yourid"><img src="https://cdn.simpleicons.org/discord/5865F2" width="50"/></a>
+  <a href="https://www.reddit.com/user/Jave01/"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="50"/></a>
+  <a href="https://www.roblox.com/users/115417648/profile"><img src="https://cdn.simpleicons.org/roblox/000000" width="50"/></a>
+  <a href="https://steamcommunity.com/id/J4ve/"><img src="https://cdn.simpleicons.org/steam/00ADEE" width="50"/></a>
 </p>
 
 
