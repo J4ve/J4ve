@@ -11,9 +11,15 @@
 </p>
 
 ---
-## Welcome to my GitHub profile. I share personal projects, fork random stuff, make experiments, and occasionally some academic work. 
+<p align="center">
+  ## Welcome to my GitHub profile. I share personal projects, fork random stuff, make experiments, and occasionally some academic work.
+</p>
 
-## I like AI, automation, game, mobile and web development.
+<p align="center">
+  ## I like AI, automation, game, mobile and web development.
+</p>
+
+<hr>
 
 ---
 
