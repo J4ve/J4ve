@@ -22,7 +22,7 @@
 <h1 align="center">🛠️ What I want to improve on:</h3>
 
 <div align="center", style="max-width: 300px; margin: auto;">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,sqlite,arduino,lua,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,arduino,lua,cpp" />
 </div>
 
 <h1 align="center">💡 About Me: </h3>
