@@ -1,5 +1,5 @@
 
-# Hi, I'm Jave (J4ve, MCP_j) 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&letterSpacing=small&duration=4000&pause=1000&width=435&lines=Hello%2C+I%E2%80%99m+Jave%2C+;also+known+as+J4ve%2C+MCP_j%2C+or+JaveWave)](https://git.io/typing-svg)
 
 ![jave_shoots_u](https://github.com/user-attachments/assets/548f0001-758c-46d9-8ea0-1d1b4f085b21)
 
