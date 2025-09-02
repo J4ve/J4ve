@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ What I Like:
+### 🛠️ What I want to improve on:
 
 #### 💻 Languages
 <p>
