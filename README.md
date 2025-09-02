@@ -82,16 +82,16 @@
 ---
 
 <h1 align="center">📬 Connect: </h3>
-<p>
+<p align="center">
   If you're down to collaborate or just want to chat, feel free to reach out!
 </p>
 
 **Connect with me:**  
 
-- **Discord:** J4ve (old: J4ve#1329)  
-- **Reddit:** [u/Jave01](https://www.reddit.com/user/Jave01/)  
-- **Roblox:** [MCP_j](https://www.roblox.com/users/115417648/profile)  
-- **Steam:** [J4ve](https://steamcommunity.com/id/J4ve/)  
+- <img src="https://skillicons.dev/icons?i=discord" width="20" /> **Discord:** J4ve (old: J4ve#1329)  
+- <img src="https://skillicons.dev/icons?i=reddit" width="20" /> **Reddit:** [u/Jave01](https://www.reddit.com/user/Jave01/)  
+- <img src="https://skillicons.dev/icons?i=roblox" width="20" /> **Roblox:** [MCP_j](https://www.roblox.com/users/115417648/profile)  
+- <img src="https://skillicons.dev/icons?i=steam" width="20" /> **Steam:** [J4ve](https://steamcommunity.com/id/J4ve/)  
 
 ---
 
