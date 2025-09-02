@@ -7,7 +7,7 @@
        width="600" />
 </p>
 <p align="center">
-  <strong>PEW PEW I SHOT YOU (sorry)</strong>
+  <strong>PEW PEW I SHOT YOU 💥💥🔫 (sorry)</strong>
 </p>
 
 ## Welcome to my GitHub profile. I share personal projects, fork random stuff, make experiments, and occasionally some academic work. I like AI, automation, game, mobile and web development.
