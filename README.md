@@ -7,7 +7,7 @@
        width="600" />
 </p>
 <p align="center">
-  <strong>PEW PEW I SHOT YOU 💥💥🔫 (sorry)</strong>
+  <strong>💥💥🔫 (sorry)</strong>
 </p>
 
 ---
