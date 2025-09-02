@@ -25,14 +25,10 @@
   <img src="https://skillicons.dev/icons?i=python,java,javascript,sqlite,arduino,lua,cpp" />
 </div>
 
----
-
 <h1 align="center">💡 About Me: </h3>
 <p align="center">
   I play video games, make/teach music, and I'm passionate about solving real-world problems with code.
 </p>
-
----
 
 <h1 align="center">📬 Connect: </h3>
 <p align="center">
@@ -45,7 +41,6 @@
  [u/Jave01](https://www.reddit.com/user/Jave01/) ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)  
  [MCP_j](https://www.roblox.com/users/115417648/profile) ![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white)  
  [J4ve](https://steamcommunity.com/id/J4ve/) ![Steam](https://img.shields.io/badge/Steam-00ADEE?style=flat&logo=steam&logoColor=white) 
-
 
 ---
 
