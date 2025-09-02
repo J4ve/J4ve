@@ -21,8 +21,6 @@
 
 <hr>
 
----
-
 ### 🛠️ What I want to improve on:
 
 #### 💻 Languages
@@ -89,7 +87,7 @@ I play video games, make/teach music, and I'm passionate about solving real-worl
 ---
 
 ### 📬 Connect
-If you're down to collaborate or just want to chat, feel free to reach out or open an issue on any of my repositories.  
+If you're down to collaborate or just want to chat, feel free to reach out!
 
 **Connect with me:**  
 
