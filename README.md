@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I share personal projects, fork random stuff, make
 
 ---
 
-### 🛠️ Tech Stack & Tools (Learned + Currently Learning)
+### 🛠️ Tech Stack & Tools I Like
 
 #### 💻 Languages
 <p>
