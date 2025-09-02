@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=100&letterSpacing=small&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=200&lines=Hello%2C+I%E2%80%99m+Jave!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=50&letterSpacing=small&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=also+known+as%3A+JaveWave%2C+J4ve%2C+MCP_j)](https://git.io/typing-svg)
 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/548f0001-758c-46d9-8ea0-1d1b4f085b21" 
        alt="jave_shoots_u" 
-       width="1000" />
+       width="600" />
 </p>
 
 Welcome to my GitHub profile. I share personal projects, fork random stuff, make experiments, and occasionally some academic work. I'm always exploring ideas around AI, automation, game, mobile and web development.
