@@ -39,10 +39,13 @@
 
 **Connect with me:**  
 
-[![Discord](https://cdn.simpleicons.org/discord/5865F2)](https://discord.com/users/yourid)  
-[![Reddit](https://cdn.simpleicons.org/reddit/FF4500)](https://www.reddit.com/user/Jave01/)  
-[![Roblox](https://cdn.simpleicons.org/roblox/000000)](https://www.roblox.com/users/115417648/profile)  
-[![Steam](https://cdn.simpleicons.org/steam/00ADEE)](https://steamcommunity.com/id/J4ve/)  
+<p align="center">
+  <a href="https://discord.com/users/yourid"><img src="https://cdn.simpleicons.org/discord/5865F2" width="30"/></a>
+  <a href="https://www.reddit.com/user/Jave01/"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="30"/></a>
+  <a href="https://www.roblox.com/users/115417648/profile"><img src="https://cdn.simpleicons.org/roblox/000000" width="30"/></a>
+  <a href="https://steamcommunity.com/id/J4ve/"><img src="https://cdn.simpleicons.org/steam/00ADEE" width="30"/></a>
+</p>
+
 
 
 ---
