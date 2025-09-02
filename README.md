@@ -22,8 +22,8 @@
 
 <h1 align="center">🛠️ What I want to improve on:</h3>
 
-<h2>💻 Languages</h2>
 <div style="max-width: 300px; margin: auto;">
+  <h2>💻 Languages</h2>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,sqlite,arduino,lua,cpp" />
 </div>
 
@@ -46,8 +46,9 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
 </p>
 
-<h2>⚙️ Backend</h2>
+
 <p>
+  <h2>⚙️ Backend</h2>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
 </p>
