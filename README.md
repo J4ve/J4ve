@@ -10,11 +10,13 @@
   <strong>PEW PEW I SHOT YOU 💥💥🔫 (sorry)</strong>
 </p>
 
-## Welcome to my GitHub profile. I share personal projects, fork random stuff, make experiments, and occasionally some academic work. I like AI, automation, game, mobile and web development.
+## Welcome to my GitHub profile. I share personal projects, fork random stuff, make experiments, and occasionally some academic work. 
+
+## I like AI, automation, game, mobile and web development.
 
 ---
 
-### 🛠️ Tech Stack & Tools I Like
+### 🛠️ What I Like:
 
 #### 💻 Languages
 <p>
@@ -80,17 +82,15 @@ I play video games, make/teach music, and I'm passionate about solving real-worl
 ---
 
 ### 📬 Connect
-If you're down to collaborate or just wanna chat, feel free to reach out or open an issue on any of my repositories.
+If you're down to collaborate or just want to chat, feel free to reach out or open an issue on any of my repositories.  
 
-Discord username: J4ve (old: J4ve#1329)
+**Connect with me:**  
 
-Reddit: https://www.reddit.com/user/Jave01/
-
-Roblox: https://www.roblox.com/users/115417648/profile
-
-Steam: https://steamcommunity.com/id/J4ve/
+- **Discord:** J4ve (old: J4ve#1329)  
+- **Reddit:** [u/Jave01](https://www.reddit.com/user/Jave01/)  
+- **Roblox:** [MCP_j](https://www.roblox.com/users/115417648/profile)  
+- **Steam:** [J4ve](https://steamcommunity.com/id/J4ve/)  
 
 ---
 
-Thanks for stopping by!
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&letterSpacing=small&pause=1000&color=F7F7F7&width=435&lines=Thanks+for+stopping+by!)](https://git.io/typing-svg)
