@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&letterSpacing=small&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+I%E2%80%99m+Jave!;also+known+as%3A+;JaveWave%2C+J4ve%2C+MCP_j)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=100&letterSpacing=small&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=1000&height=500&lines=Hello%2C+I%E2%80%99m+Jave!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=50&letterSpacing=small&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=also+known+as%3A+;JaveWave%2C+J4ve%2C+MCP_j)](https://git.io/typing-svg)
+
+
 
 ![jave_shoots_u](https://github.com/user-attachments/assets/548f0001-758c-46d9-8ea0-1d1b4f085b21)
 
