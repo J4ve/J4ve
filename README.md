@@ -53,7 +53,7 @@
 </div>
 
 <h2 align="center">🛠️ Tools & Workflow</h2>
-<div align="center" style="max-width: 300px; margin: auto;">
+<div align="center" style="max-width: 50px; margin: auto;">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
