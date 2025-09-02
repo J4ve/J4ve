@@ -12,11 +12,11 @@
 
 ---
 <p align="center">
-  ## Welcome to my GitHub profile. I share personal projects, fork random stuff, make experiments, and occasionally some academic work.
+  Welcome to my GitHub profile. I share personal projects, fork random stuff, make experiments, and occasionally some academic work.
 </p>
 
 <p align="center">
-  ## I like AI, automation, game, mobile and web development.
+  I like AI, automation, game, mobile and web development.
 </p>
 
 <hr>
