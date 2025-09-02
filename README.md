@@ -23,12 +23,12 @@
 <h1 align="center">🛠️ What I want to improve on:</h3>
 
 <h2 align="center">💻 Languages</h2>
-<div align="center" style="max-width: 600px; margin: auto;">
+<div align="center" style="max-width: 300px; margin: auto;">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,sqlite,arduino,lua,cpp" />
 </div>
 
 <h2 align="center">🤖 AI Libraries</h2>
-<div align="center" style="max-width: 600px; margin: auto;">
+<div align="center" style="max-width: 300px; margin: auto;">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
@@ -40,20 +40,20 @@
 </div>
 
 <h2 align="center">🌐 Frontend</h2>
-<div align="center" style="max-width: 600px; margin: auto;">
+<div align="center" style="max-width: 300px; margin: auto;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
 </div>
 
 <h2 align="center">⚙️ Backend</h2>
-<div align="center" style="max-width: 600px; margin: auto;">
+<div align="center" style="max-width: 300px; margin: auto;">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
 </div>
 
 <h2 align="center">🛠️ Tools & Workflow</h2>
-<div align="center" style="max-width: 600px; margin: auto;">
+<div align="center" style="max-width: 300px; margin: auto;">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
