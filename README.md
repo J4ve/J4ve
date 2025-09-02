@@ -21,8 +21,10 @@
 
 <h1 align="center">🛠️ What I want to improve on:</h3>
 
-<div align="center", style="max-width: 300px; margin: auto;">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,arduino,lua,cpp,c,rust" />
+<div align="center" style="max-width: 300px; margin: auto;">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,arduino,lua,cpp" />
+  <img src="https://cdn.simpleicons.org/c/555555" width="24" />
+  <img src="https://cdn.simpleicons.org/rust/000000" width="24" />
 </div>
 
 <h1 align="center">💡 About Me: </h3>
