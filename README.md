@@ -22,18 +22,18 @@
 <hr>
 
 <p align="center">
-### 🛠️ What I want to improve on:
+**🛠️ What I want to improve on:**
 </p>
 
 <p align="center">
-#### 💻 Languages
+**💻 Languages**
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,sqlite,arduino,lua,cpp" />
 </p>
 
 <p align="center">
-#### 🤖 AI Libraries
+**🤖 AI Libraries**
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-#### 🌐 Frontend
+**🌐 Frontend**
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-#### ⚙️ Backend
+**⚙️ Backend**
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-#### 🛠️ Tools & Workflow
+**🛠️ Tools & Workflow**
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
