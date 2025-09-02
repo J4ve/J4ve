@@ -88,10 +88,10 @@
 
 **Connect with me:**  
 
-- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) J4ve (old: J4ve#1329)  
-- ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white) [u/Jave01](https://www.reddit.com/user/Jave01/)  
-- ![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white) [MCP_j](https://www.roblox.com/users/115417648/profile)  
-- ![Steam](https://img.shields.io/badge/Steam-00ADEE?style=flat&logo=steam&logoColor=white) [J4ve](https://steamcommunity.com/id/J4ve/)  
+ ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) J4ve (old: J4ve#1329)  
+ ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white) [u/Jave01](https://www.reddit.com/user/Jave01/)  
+ ![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white) [MCP_j](https://www.roblox.com/users/115417648/profile)  
+ ![Steam](https://img.shields.io/badge/Steam-00ADEE?style=flat&logo=steam&logoColor=white) [J4ve](https://steamcommunity.com/id/J4ve/)  
 
 
 ---
