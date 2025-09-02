@@ -74,13 +74,17 @@
 
 ---
 
-### 💡 About Me
-I play video games, make/teach music, and I'm passionate about solving real-world problems with code.
+<h1 align="center">💡 About Me: </h3>
+<p align="center">
+  I play video games, make/teach music, and I'm passionate about solving real-world problems with code.
+</p>
 
 ---
 
-### 📬 Connect
-If you're down to collaborate or just want to chat, feel free to reach out!
+<h1 align="center">📬 Connect: </h3>
+<p>
+  If you're down to collaborate or just want to chat, feel free to reach out!
+</p>
 
 **Connect with me:**  
 
