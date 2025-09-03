@@ -25,7 +25,7 @@
 
 <h1 align="center">💡 About Me: </h3>
 <p align="center">
-  I play video games, make/teach music, and I'm passionate about solving real-world problems with code.
+  I'm a computer science student who loves to play video games, make/teach music, and I'm passionate about solving real-world problems with code.
 </p>
 
 <h1 align="center">📬 Connect: </h3>
