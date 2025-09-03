@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&letterSpacing=small&duration=3500&pause=20000&color=1E90FF&center=true&vCenter=true&width=435&height=200&lines=Thanks+for+stopping+by!;Uh%2C+you're+still+here%3F;Alright%2C+take+your+time;You+must+be+really+curious;Hope+you%E2%80%99re+enjoying+this;Still+with+me%2C+huh%3F;Don%E2%80%99t+get+lost+in+here;Okay%2C+i+see+the+dedication;Fine%2C+stay+as+long+as+you+like" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&letterSpacing=small&duration=3500&pause=30000&color=1E90FF&center=true&vCenter=true&width=435&height=200&lines=Thanks+for+stopping+by!;Uh%2C+you're+still+here%3F;Alright%2C+take+your+time;You+must+be+really+curious;Hope+you%E2%80%99re+enjoying+this;Still+with+me%2C+huh%3F;Don%E2%80%99t+get+lost+in+here;Okay%2C+i+see+the+dedication;Fine%2C+stay+as+long+as+you+like" alt="Typing SVG" /></a>
   </p>
 
 <!--
