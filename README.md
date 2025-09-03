@@ -1,5 +1,5 @@
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=100&letterSpacing=small&pause=5000&color=1E90FF&center=true&vCenter=true&width=1200&height=200&lines=Hello%2C+I%E2%80%99m+Jave!;This+is+my+profile;Sorry+for+shooting+u;Glad+you+survived+that)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=100&letterSpacing=small&pause=5000&color=1E90FF&center=true&vCenter=true&width=1200&height=200&lines=Hello%2C+I%E2%80%99m+Jave!;This+is+my+profile;Sorry+for+shooting+u)](https://git.io/typing-svg)
 ---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/548f0001-758c-46d9-8ea0-1d1b4f085b21" 
