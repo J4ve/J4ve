@@ -43,4 +43,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&letterSpacing=small&pause=1000&background=000000&color=F7F7F7&center=true&width=435&lines=Thanks+for+stopping+by!)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&letterSpacing=small&pause=1000&background=000000&color=F7F7F7&center=true&width=435&lines=Thanks+for+stopping+by!)](https://git.io/typing-svg)
+</p>
+
