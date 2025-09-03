@@ -18,6 +18,9 @@
   I like AI, automation, game, mobile and web development.
 </p>
 <hr>
+  
+<a align="center", href="https://u8views.com/github/J4ve"><img src="https://u8views.com/api/v1/github/profiles/153438738/views/day-week-month-total-count.svg"></a>
+
 
 <h1 align="center">🛠️ What I want to improve on:</h3>
 
