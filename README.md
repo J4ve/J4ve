@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/548f0001-758c-46d9-8ea0-1d1b4f085b21" 
        alt="jave_shoots_u" 
-       width="600" />
+       width="600"/>
 </p>
 <p align="center">
   <strong>💥💥🔫 (sorry)</strong>
