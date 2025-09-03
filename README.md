@@ -1,5 +1,5 @@
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=100&letterSpacing=small&pause=1000&color=1E90FF&center=true&vCenter=true&width=1000&height=200&lines=Hello%2C+I%E2%80%99m+Jave!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=100&letterSpacing=small&pause=3000&color=1E90FF&center=true&vCenter=true&width=1200&height=200&lines=Hello%2C+I%E2%80%99m+Jave!;This+is+my+profile;Sorry+for+shooting+u;Glad+you+survived+that)](https://git.io/typing-svg)
 ---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/548f0001-758c-46d9-8ea0-1d1b4f085b21" 
@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  <a href=https://git.io/typing-svg><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&letterSpacing=small&pause=1000&color=1E90FF&center=true&width=435&lines=Thanks+for+stopping+by!", alt="thx-stopping-by", width="600"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&letterSpacing=small&duration=3500&pause=5000&color=1E90FF&center=true&vCenter=true&width=435&height=200&lines=Thanks+for+stopping+by!;Uh%2C+you're+still+here%3F;Alright%2C+take+your+time;You+must+be+really+curious;Hope+you%E2%80%99re+enjoying+this;Still+with+me%2C+huh%3F;Don%E2%80%99t+get+lost+in+here;Okay%2C+i+see+the+dedication;Fine%2C+stay+as+long+as+you+like" alt="Typing SVG" /></a>
   </p>
 
 <!--
