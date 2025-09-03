@@ -1,5 +1,5 @@
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=100&letterSpacing=small&pause=10000&color=1E90FF&center=true&vCenter=true&width=1200&height=200&lines=Hello%2C+I%E2%80%99m+Jave!;This+is+my+profile;Sorry+for+shooting+u;Glad+you+survived+that)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=100&letterSpacing=small&pause=5000&color=1E90FF&center=true&vCenter=true&width=1200&height=200&lines=Hello%2C+I%E2%80%99m+Jave!;This+is+my+profile;Sorry+for+shooting+u;Glad+you+survived+that)](https://git.io/typing-svg)
 ---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/548f0001-758c-46d9-8ea0-1d1b4f085b21" 
@@ -37,11 +37,21 @@
   If you're down to collaborate or just want to chat, feel free to reach out!
 </p>
 <p align="center">
-  <a href="https://discord.com/users/yourid"><img src="https://cdn.simpleicons.org/discord/5865F2" width="50"/></a>
   <a href="https://www.reddit.com/user/Jave01/"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="50"/></a>
   <a href="https://www.roblox.com/users/115417648/profile"><img src="https://cdn.simpleicons.org/roblox/03A9F4" width="50"/></a>
   <a href="https://steamcommunity.com/id/J4ve/"><img src="https://cdn.simpleicons.org/steam/00ADEE" width="50"/></a>
 </p>
+
+<p align="center">
+      <a href="https://discord.com/users/j4ve"><img src="https://img.shields.io/badge/Discord-j4ve-5865F2" alt="Discord"/></a>
+      <a href="https://www.linkedin.com/in/jave-bacsain-28610324a/"><img src="https://img.shields.io/badge/Linkedin-Jave_Bacsain-0077B5" /></a>
+</p>
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/-bacsain.jave1@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bacsain.jave1@gmail.com)
+
+</div>
 
 
 
