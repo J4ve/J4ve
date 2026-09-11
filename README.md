@@ -23,16 +23,16 @@
 <a href="https://u8views.com/github/J4ve"><img src="https://u8views.com/api/v1/github/profiles/153438738/views/day-week-month-total-count.svg"></a>
 -->
 
-<h1 align="center">🛠️ What I want to improve on:</h3>
+<h3 align="center">🛠️ What I want to improve on:</h3>
 
-<div align="center", style="max-width: 300px; margin: auto;"> <img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,arduino,lua,cpp,c,rust"/> </div>
+<div align="center" style="max-width: 300px; margin: auto;"> <img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,arduino,lua,cpp,c,rust"/> </div>
 
-<h1 align="center">💡 About Me: </h3>
+<h3 align="center">💡 About Me: </h3>
 <p align="center">
   I'm a computer science student who loves to play video games, make/teach music, and I'm passionate about solving real-world problems with code.
 </p>
 
-<h1 align="center">📬 Connect: </h3>
+<h3 align="center">📬 Connect: </h3>
 <p align="center">
   If you're down to collaborate or just want to chat, feel free to reach out!
 </p>
