@@ -16,7 +16,6 @@
 
 **Full-Stack Software Developer** · [Homexa](https://homexa.com) · full-time, remote · Sep 2026 to present
 AI automations and dev work on [yapii.com](https://yapii.com).
-<!-- Homexa wording per captain. Still confirm with contract or team lead before pushing, and delete this comment. See AUDIT.md. -->
 
 **Full-Stack Developer, freelance** · Dec 2025 to present · remote
 - HR management platform for a client: employee records, approvals, shift scheduling, payroll tracking. Deployed on Vercel, with a Discord bot for the team alongside it.
@@ -112,8 +111,6 @@ Closed source. The code belongs to the companies I built it for, so these descri
 </td>
 </tr>
 </table>
-
-<!-- Yapii card: contract clause 3 needs written approval before anything about this work goes public. Confirm with contract or team lead before pushing, then delete this comment. See AUDIT.md. -->
 
 ### Coursework
 
