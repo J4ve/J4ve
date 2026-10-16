@@ -112,7 +112,7 @@ Closed source. The code belongs to the companies I built it for, so these descri
 
 <h4><a href="https://yapii.com">Yapii</a></h4>
 <p>SaaS at Homexa: AI automations, dev work, and migrating users from other CRMs.</p>
-<sub><b>Work project, code is private</b></sub>
+<sub><b><a href="https://yapii.com">yapii.com</a> · work project, code is private</b></sub>
 
 </td>
 </tr>
