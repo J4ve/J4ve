@@ -89,12 +89,14 @@ Closed source. The code belongs to the companies I built it for, so these descri
 
 <h4><a href="https://github.com/J4ve/workforce-operations-platform">workforce-operations-platform</a></h4>
 <p>HR and operations tool for a client: staff records, schedules, pay cycles, onboarding and training.</p>
+<sub><b>Next.js · TypeScript · Supabase · Drizzle</b></sub>
 
 </td>
 <td width="50%" valign="top">
 
 <h4><a href="https://github.com/J4ve/discord-workforce-automation">discord-workforce-automation</a></h4>
 <p>Discord bot that posted shift reminders and kept track of activity for a team of 30 or more.</p>
+<sub><b>Python · discord.py · SQLite · aiohttp</b></sub>
 
 </td>
 </tr>
@@ -103,16 +105,14 @@ Closed source. The code belongs to the companies I built it for, so these descri
 
 <h4><a href="https://github.com/J4ve/distributed-ops-mcp-server">distributed-ops-mcp-server</a></h4>
 <p>Lets an AI assistant look things up across internal databases by asking in plain English.</p>
+<sub><b>Python · FastMCP · PostgreSQL · MongoDB</b></sub>
 
 </td>
-</tr>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <h4><a href="https://yapii.com">Yapii</a></h4>
 <p>SaaS at Homexa: AI automations, dev work, and migrating users from other CRMs.</p>
-<sub>Work project, code is private. No repo.</sub>
+<sub><b>Work project, code is private</b></sub>
 
 </td>
 </tr>
