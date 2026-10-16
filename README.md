@@ -172,7 +172,7 @@ Closed source. The code belongs to the companies I built it for, so these descri
 
 Software engineering · QA and testing · AI/ML
 
-Started with game file modding and running game servers. Outside of code: video games, and making and teaching music.
+Started with game file modding, running game servers and some Roblox. Outside of code: video games, and making and teaching music.
 
 <div align="center">
 
