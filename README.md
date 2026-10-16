@@ -11,8 +11,12 @@ Right now I am writing my thesis, **Real-Time Chess Skill Estimation and Anomaly
 **AI & Tech Virtual Assistant** at Club Wealth / Homexa (current).
 <!-- Homexa line: confirm with contract or team lead before pushing, and delete this comment. See AUDIT.md. -->
 
-**Monetize Me LLC**: Customer Support Representative, Training Manager, and freelance Software Developer for Internal Tools.
-The HR platform and Discord bot I built there served a 30+ person team.
+**Full-Stack Software Developer**, freelance. December 2025 to present, remote.
+
+- Designed and built a custom HR management platform for a client: employee records, approval workflows, shift scheduling and payroll tracking, deployed on Vercel.
+- Built and maintained a Discord automation bot for team operations, attendance tracking and engagement workflows, and ran its cloud deployment, including a migration from Google Cloud to Oracle Cloud.
+- Kept the architecture layered, with presentation, business logic and data access separate.
+- I use AI-assisted development tools, and I review, test and debug everything before it ships.
 
 ## Featured Projects
 
@@ -27,10 +31,10 @@ The HR platform and Discord bot I built there served a 30+ person team.
 
 ### Case studies (closed source work)
 
-The code for these belongs to the company, so these repos describe what I built and how I approached it instead of shipping the source.
+The code for these belongs to the client, so these repos describe what I built and how I approached it instead of shipping the source.
 
-- [**workforce-operations-platform**](https://github.com/J4ve/workforce-operations-platform) - Internal HR and operations platform: scheduling, pay cycles, onboarding and training.
-- [**discord-workforce-automation**](https://github.com/J4ve/discord-workforce-automation) - Discord bot that handled shift notifications and activity tracking for the same 30+ person team.
+- [**workforce-operations-platform**](https://github.com/J4ve/workforce-operations-platform) - Internal HR and operations platform for a client: scheduling, pay cycles, onboarding and training.
+- [**discord-workforce-automation**](https://github.com/J4ve/discord-workforce-automation) - Discord bot that handled shift notifications and activity tracking for a 30+ person team.
 - [**distributed-ops-mcp-server**](https://github.com/J4ve/distributed-ops-mcp-server) - A read-only MCP server that let AI assistants query several internal datastores in plain English.
 
 ## Tech
