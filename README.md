@@ -43,8 +43,8 @@ AI automations and dev work on [yapii.com](https://yapii.com).
 <td width="50%" valign="top">
 
 <h4><a href="https://github.com/J4ve/videomerger_app">videomerger_app</a></h4>
-<p>Joins video clips together and uploads them to YouTube, so you do not have to rename files or redo the same settings each time. A team project for our software engineering course. Later rebuilt as <a href="https://github.com/J4ve/videomerger_app_revamp">videomerger_app_revamp</a> on Electron and React.</p>
-<sub><b>Python · Flet · FFmpeg · Firebase · YouTube Data API</b></sub>
+<p>Merges a batch of clips and uploads the result straight to YouTube. It puts them in order for you by name, date, size or duration, so nothing has to be lined up on a timeline by hand, and it copies the streams untouched when the codecs already match. Later rebuilt as <a href="https://github.com/J4ve/videomerger_app_revamp">videomerger_app_revamp</a> on Electron and React.</p>
+<sub><b>Open source, MIT · Python · Flet · FFmpeg · Firebase · YouTube Data API</b></sub>
 
 </td>
 </tr>
