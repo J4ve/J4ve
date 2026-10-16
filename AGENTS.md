@@ -6,8 +6,8 @@ This file is the project's committed home for project-intrinsic agent knowledge:
   <https://github.com/J4ve>, not as an ordinary repo page.
 - **Never start `README.md` with a `---` line.** GitHub treats a leading `---` as the opening
   fence of YAML front matter, fails to parse what follows, and shows an "Error in user YAML"
-  banner at the top of the profile. Use a heading as the first line. A `---` rule lower in the
-  file is fine.
+  banner at the top of the profile. Start with anything else (a heading, or an HTML block such
+  as `<div align="center">`). A `---` rule lower in the file is fine.
 - The profile page renders Markdown, not arbitrary HTML: `style` attributes are stripped, so do
   not rely on them for layout.
 - To preview a change the way GitHub will actually render it, POST the file to the markdown API
