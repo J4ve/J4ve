@@ -79,6 +79,53 @@ AI automations and dev work on [yapii.com](https://yapii.com).
 </tr>
 </table>
 
+### Coursework
+
+<sub>School projects, kept public for the record.</sub>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://github.com/J4ve/python-3d-wireframe-renderer"><b>python-3d-wireframe-renderer</b></a><br/>
+<sub>Linear algebra, extended from a tutorial</sub>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/J4ve/assembly-x86-employee-tracker"><b>assembly-x86-employee-tracker</b></a><br/>
+<sub>Architecture and organization final, team of four</sub>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/J4ve/mobile-app-development-labs"><b>mobile-app-development-labs</b></a><br/>
+<sub>Mobile app development labs</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://github.com/J4ve/cloud-ecommerce-azure"><b>cloud-ecommerce-azure</b></a><br/>
+<sub>Cloud computing final, team of four</sub>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/J4ve/flask-docker-cicd-pipeline"><b>flask-docker-cicd-pipeline</b></a><br/>
+<sub>Flask service with container and CI tests</sub>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/J4ve/chess-rating-predictor-dl"><b>chess-rating-predictor-dl</b></a><br/>
+<sub>Intro to AI final project</sub>
+
+</td>
+</tr>
+</table>
+
 ### Work projects
 
 Closed source. The code belongs to the companies I built it for, so these describe the work instead.
