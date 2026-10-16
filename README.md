@@ -14,12 +14,12 @@
 
 ---
 
-### Now
+### Currently
 
 **Thesis** · [Real-time chess skill estimation and anomaly detection](https://github.com/J4ve/chess-skill-estimation-attention) · attention-augmented CNN-BiLSTM · PyTorch, python-chess, Stockfish, Leela Chess Zero
 
 **Full-Stack Software Developer** · [Homexa](https://homexa.com) · full-time, remote · Sep 2026 to present
-AI automations and dev work on yapii.com.
+AI automations and dev work on [yapii.com](https://yapii.com).
 <!-- Homexa wording per captain. Still confirm with contract or team lead before pushing, and delete this comment. See AUDIT.md. -->
 
 **Full-Stack Developer, freelance** · Dec 2025 to present · remote
@@ -79,32 +79,45 @@ AI automations and dev work on yapii.com.
 </tr>
 </table>
 
-### Case studies
+### Work projects
 
-Closed source. The code belongs to the client, so these describe the build instead.
+Closed source. The code belongs to the companies I built it for, so these describe the work instead.
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h4><a href="https://github.com/J4ve/workforce-operations-platform">workforce-operations-platform</a></h4>
 <p>HR and operations tool for a client: staff records, schedules, pay cycles, onboarding and training.</p>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h4><a href="https://github.com/J4ve/discord-workforce-automation">discord-workforce-automation</a></h4>
 <p>Discord bot that posted shift reminders and kept track of activity for a team of 30 or more.</p>
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <h4><a href="https://github.com/J4ve/distributed-ops-mcp-server">distributed-ops-mcp-server</a></h4>
 <p>Lets an AI assistant look things up across internal databases by asking in plain English.</p>
 
 </td>
 </tr>
-</table>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4><a href="https://yapii.com">Yapii</a></h4>
+<p>SaaS at Homexa: AI automations, dev work, and migrating users from other CRMs.</p>
+<sub>Work project, code is private. No repo.</sub>
+
+</td>
+</tr>
+</table><!-- Yapii card: contract clause 3 needs written approval before anything about this work goes public. Confirm with contract or team lead before pushing, then delete this comment. See AUDIT.md. -->
+
 
 ---
 
