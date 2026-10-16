@@ -6,10 +6,6 @@
 
 4th year BS CS at Camarines Sur Polytechnic Colleges · Graduating 2027 · Dean's Lister
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,mysql&theme=dark" alt="Python, JavaScript, TypeScript, Java, MySQL" />
-
-<img src="https://skillicons.dev/icons?i=react,vite,flask,pytorch,sklearn,docker,githubactions,azure,git,linux&theme=dark" alt="React, Vite, Flask, PyTorch, scikit-learn, Docker, GitHub Actions, Azure, Git, Linux" />
-
 </div>
 
 ---
