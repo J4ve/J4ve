@@ -171,7 +171,7 @@ Started with game file modding, running game servers and some Roblox. Outside of
 
 ### Contact
 
-[Email](mailto:bacsain.jave1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jave-bacsain-28610324a/) · [Discord](https://discord.com/users/j4ve)
+[Email](mailto:bacsain.jave1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jave-bacsain-28610324a/) · Discord: j4ve
 
 <sub>Elsewhere: <a href="https://www.reddit.com/user/Jave01/">Reddit</a> · <a href="https://www.roblox.com/users/115417648/profile">Roblox</a> · <a href="https://steamcommunity.com/id/J4ve/">Steam</a></sub>
 
