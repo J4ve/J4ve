@@ -19,7 +19,7 @@
 **Thesis** · [Real-time chess skill estimation and anomaly detection](https://github.com/J4ve/chess-skill-estimation-attention) · attention-augmented CNN-BiLSTM · PyTorch, python-chess, Stockfish, Leela Chess Zero
 
 **Full-Stack Software Developer** · [Homexa](https://homexa.com) · full-time, remote · Sep 2026 to present
-AI automations and dev work on homexa.com.
+AI automations and dev work on yapii.com.
 <!-- Homexa wording per captain. Still confirm with contract or team lead before pushing, and delete this comment. See AUDIT.md. -->
 
 **Full-Stack Developer, freelance** · Dec 2025 to present · remote
@@ -36,14 +36,29 @@ AI automations and dev work on homexa.com.
 <td width="50%" valign="top">
 
 <h4><a href="https://github.com/J4ve/chess-skill-estimation-attention">chess-skill-estimation-attention</a></h4>
-<p>My thesis. Real-time chess rating estimation and move-level anomaly detection, on a fork of the RatingNet research code.</p>
+<p>My thesis. Works out how strong a chess player is from the moves they make, and flags moves that look out of place. Builds on the published RatingNet research code.</p>
 <sub><b>PyTorch · python-chess · Stockfish</b></sub>
 
 </td>
 <td width="50%" valign="top">
 
+<h4><a href="https://github.com/J4ve/videomerger_app">videomerger_app</a></h4>
+<p>Joins video clips together and uploads them to YouTube, so you do not have to rename files or redo the same settings each time. A team project for our software engineering course. Later rebuilt as <a href="https://github.com/J4ve/videomerger_app_revamp">videomerger_app_revamp</a> on Electron and React.</p>
+<sub><b>Python · Flet · FFmpeg · Firebase · YouTube Data API</b></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4><a href="https://github.com/J4ve/music-engagement-mlp">music-engagement-mlp</a></h4>
+<p>Predicts how much engagement a music video gets, from a Spotify and YouTube dataset, using a small neural network.</p>
+<sub><b>Python · Keras · Jupyter</b></sub>
+</td>
+<td width="50%" valign="top">
+
 <h4><a href="https://github.com/J4ve/neurosymbolic-llm-hallucination-mitigation">neurosymbolic-llm-hallucination-mitigation</a></h4>
-<p>Catches bad LLM reasoning by translating it into logic and checking it with an SMT solver.</p>
+<p>Checks whether an LLM's reasoning actually holds up, by turning it into logic and testing it.</p>
 <sub><b>Python · Z3 · few-shot prompting</b></sub>
 
 </td>
@@ -51,33 +66,15 @@ AI automations and dev work on homexa.com.
 <tr>
 <td width="50%" valign="top">
 
-<h4><a href="https://github.com/J4ve/python-3d-wireframe-renderer">python-3d-wireframe-renderer</a></h4>
-<p>3D engine built up from the linear algebra: my own camera, mesh, buffer, shader and lighting code.</p>
-<sub><b>Python · ModernGL · pygame</b></sub>
-
+<h4><a href="https://github.com/J4ve/space-agency-management-system">space-agency-management-system</a></h4>
+<p>Console tool for planning space missions: expeditions, spacecraft, research projects and inventory. A three person team project for our OOP course.</p>
+<sub><b>Java · OOP</b></sub>
 </td>
 <td width="50%" valign="top">
 
-<h4><a href="https://github.com/J4ve/cloud-ecommerce-azure">cloud-ecommerce-azure</a></h4>
-<p>Full-stack e-commerce app on Azure App Service, with an automated deploy pipeline.</p>
-<sub><b>JavaScript · Azure · GitHub Actions</b></sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4><a href="https://github.com/J4ve/flask-docker-cicd-pipeline">flask-docker-cicd-pipeline</a></h4>
-<p>Small containerized service I used to get Pytest and GitHub Actions right end to end.</p>
-<sub><b>Flask · Docker · Pytest</b></sub>
-
-</td>
-<td width="50%" valign="top">
-
-<h4><a href="https://github.com/J4ve/odd_even-elif-chain">odd_even-elif-chain</a></h4>
-<p>A joke with a point: an endless if/elif chain anyone can extend, so beginners land a first merged pull request.</p>
-<sub><b>Python · open to contributions</b></sub>
-
+<h4><a href="https://github.com/J4ve/adaptive-image-contrast-enhancer">adaptive-image-contrast-enhancer</a></h4>
+<p>Brings detail back out of dark or washed out grayscale photos, then scores the result against the original with PSNR and SSIM.</p>
+<sub><b>Python · NumPy · Jupyter</b></sub>
 </td>
 </tr>
 </table>
@@ -91,19 +88,19 @@ Closed source. The code belongs to the client, so these describe the build inste
 <td width="33%" valign="top">
 
 <h4><a href="https://github.com/J4ve/workforce-operations-platform">workforce-operations-platform</a></h4>
-<p>HR and operations platform for a client: scheduling, pay cycles, onboarding, training.</p>
+<p>HR and operations tool for a client: staff records, schedules, pay cycles, onboarding and training.</p>
 
 </td>
 <td width="33%" valign="top">
 
 <h4><a href="https://github.com/J4ve/discord-workforce-automation">discord-workforce-automation</a></h4>
-<p>Discord bot for shift notifications and activity tracking across a 30+ person team.</p>
+<p>Discord bot that posted shift reminders and kept track of activity for a team of 30 or more.</p>
 
 </td>
 <td width="33%" valign="top">
 
 <h4><a href="https://github.com/J4ve/distributed-ops-mcp-server">distributed-ops-mcp-server</a></h4>
-<p>Read-only MCP server letting AI assistants query internal datastores in plain English.</p>
+<p>Lets an AI assistant look things up across internal databases by asking in plain English.</p>
 
 </td>
 </tr>
