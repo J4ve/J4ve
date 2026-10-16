@@ -1,66 +1,60 @@
----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=100&letterSpacing=small&pause=5000&color=1E90FF&center=true&vCenter=true&width=1200&height=200&lines=Hello%2C+I%E2%80%99m+Jave!;This+is+my+profile)](https://git.io/typing-svg)
----
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/548f0001-758c-46d9-8ea0-1d1b4f085b21" 
-       alt="jave_shoots_u" 
-       width="600"/>
-</p>
-<p align="center">
-  <strong>💥🔫 (sorry)</strong>
-</p>
+# Jave Bacsain
 
----
-<p align="center">
-  Welcome to my GitHub profile. I share personal projects, fork random stuff, make experiments, and occasionally some academic work.
-</p>
-<p align="center">
-  I like AI, automation, game, mobile and web development.
-</p>
-<hr>
+Fourth-year BS Computer Science student at Camarines Sur Polytechnic Colleges, graduating 2027. Dean's Lister. Python is my main language.
 
-<!--
-<a href="https://u8views.com/github/J4ve"><img src="https://u8views.com/api/v1/github/profiles/153438738/views/day-week-month-total-count.svg"></a>
--->
+I share personal projects, experiments, and academic work here. I like AI, automation, and web, mobile and game development.
 
-<h3 align="center">🛠️ What I want to improve on:</h3>
+Right now I am writing my thesis, **Real-Time Chess Skill Estimation and Anomaly Detection Using an Attention-Augmented CNN-BiLSTM**, built with PyTorch, python-chess, Stockfish and Leela Chess Zero.
 
-<div align="center" style="max-width: 300px; margin: auto;"> <img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,arduino,lua,cpp,c,rust"/> </div>
+## Work
 
-<h3 align="center">💡 About Me: </h3>
-<p align="center">
-  I'm a computer science student who loves to play video games, make/teach music, and I'm passionate about solving real-world problems with code.
-</p>
+**AI & Tech Virtual Assistant** at Club Wealth / Homexa (current).
+<!-- Homexa line: confirm with contract or team lead before pushing, and delete this comment. See AUDIT.md. -->
 
-<h3 align="center">📬 Connect: </h3>
-<p align="center">
-  If you're down to collaborate or just want to chat, feel free to reach out!
-</p>
-<p align="center">
-  <a href="https://www.reddit.com/user/Jave01/"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="50"/></a>
-  <a href="https://www.roblox.com/users/115417648/profile"><img src="https://cdn.simpleicons.org/roblox/03A9F4" width="50"/></a>
-  <a href="https://steamcommunity.com/id/J4ve/"><img src="https://cdn.simpleicons.org/steam/00ADEE" width="50"/></a>
-</p>
+**Monetize Me LLC**: Customer Support Representative, Training Manager, and freelance Software Developer for Internal Tools.
+The HR platform and Discord bot I built there served a 30+ person team.
 
-<p align="center">
-      <a href="https://discord.com/users/j4ve"><img src="https://img.shields.io/badge/Discord-j4ve-5865F2" alt="Discord"/></a>
-      <a href="https://www.linkedin.com/in/jave-bacsain-28610324a/"><img src="https://img.shields.io/badge/Linkedin-Jave_Bacsain-0077B5" /></a>
-</p>
+## Featured Projects
 
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/-bacsain.jave1@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bacsain.jave1@gmail.com)
+### Open source and personal
 
-</div>
+- [**chess-skill-estimation-attention**](https://github.com/J4ve/chess-skill-estimation-attention) - My thesis work on real-time chess rating estimation and move-level anomaly detection. Built on a fork of the RatingNet research code, with the attention-augmented CNN-BiLSTM work on top.
+- [**neurosymbolic-llm-hallucination-mitigation**](https://github.com/J4ve/neurosymbolic-llm-hallucination-mitigation) - Reducing reasoning hallucinations in LLMs by translating them into logic and checking the result with an SMT solver.
+- [**python-3d-wireframe-renderer**](https://github.com/J4ve/python-3d-wireframe-renderer) - A 3D graphics engine in Python, built up from the linear algebra: my own camera, mesh, buffer, shader and lighting code on top of ModernGL.
+- [**cloud-ecommerce-azure**](https://github.com/J4ve/cloud-ecommerce-azure) - Full-stack e-commerce app deployed to Azure App Service with a CI/CD pipeline.
+- [**flask-docker-cicd-pipeline**](https://github.com/J4ve/flask-docker-cicd-pipeline) - A small containerized Flask service I used to practice Pytest and GitHub Actions end to end.
+- [**odd_even-elif-chain**](https://github.com/J4ve/odd_even-elif-chain) - A joke repo with a serious purpose: an endless if/elif chain anyone can extend, one number and one pull request at a time, so beginners get a first contribution merged.
 
+### Case studies (closed source work)
 
+The code for these belongs to the company, so these repos describe what I built and how I approached it instead of shipping the source.
 
----
+- [**workforce-operations-platform**](https://github.com/J4ve/workforce-operations-platform) - Internal HR and operations platform: scheduling, pay cycles, onboarding and training.
+- [**discord-workforce-automation**](https://github.com/J4ve/discord-workforce-automation) - Discord bot that handled shift notifications and activity tracking for the same 30+ person team.
+- [**distributed-ops-mcp-server**](https://github.com/J4ve/distributed-ops-mcp-server) - A read-only MCP server that let AI assistants query several internal datastores in plain English.
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&letterSpacing=small&duration=3500&pause=30000&color=1E90FF&center=true&vCenter=true&width=435&height=200&lines=Thanks+for+stopping+by!;Uh%2C+you're+still+here%3F;Hope+you%E2%80%99re+enjoying+this;Still+with+me%2C+huh%3F;Don%E2%80%99t+get+lost+in+here;Stay+as+long+as+you+like" alt="Typing SVG" /></a>
-  </p>
+## Tech
 
-<!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&letterSpacing=small&pause=1000&color=1E90FF&center=true&width=435&lines=Thanks+for+stopping+by!)](https://git.io/typing-svg)
--->
+| | |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript, Java, SQL |
+| **Web and apps** | React, Vite, Electron, HTML, CSS |
+| **Backend** | Flask, SQLite, REST APIs |
+| **Data and AI** | PyTorch, scikit-learn, NumPy, Jupyter |
+| **Tools** | Git, Docker, GitHub Actions, Pytest, Vitest, Azure, Linux |
+
+I got into programming through game file modding and running game servers, and a lot of what I like about the work still comes from that.
+
+## Where I am heading
+
+Software engineering, with a lot of interest in QA and testing, and in AI/ML.
+
+Outside of code I play video games, and I make and teach music.
+
+## Contact
+
+Happy to collaborate or just chat.
+
+[Email](mailto:bacsain.jave1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jave-bacsain-28610324a/) · [Discord](https://discord.com/users/j4ve)
+
+Elsewhere: [Reddit](https://www.reddit.com/user/Jave01/) · [Roblox](https://www.roblox.com/users/115417648/profile) · [Steam](https://steamcommunity.com/id/J4ve/)
