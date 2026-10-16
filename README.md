@@ -23,8 +23,7 @@ AI automations and dev work on [yapii.com](https://yapii.com).
 <!-- Homexa wording per captain. Still confirm with contract or team lead before pushing, and delete this comment. See AUDIT.md. -->
 
 **Full-Stack Developer, freelance** · Dec 2025 to present · remote
-- HR management platform for a client: employee records, approvals, shift scheduling, payroll tracking. Deployed on Vercel.
-- Discord automation bot: team operations, attendance, engagement. Moved its deployment from Google Cloud to Oracle Cloud.
+- HR management platform for a client: employee records, approvals, shift scheduling, payroll tracking. Deployed on Vercel, with a Discord bot for the team alongside it.
 - Layered architecture. Everything reviewed, tested and debugged before it ships.
 
 ---
@@ -88,14 +87,14 @@ Closed source. The code belongs to the companies I built it for, so these descri
 <td width="50%" valign="top">
 
 <h4><a href="https://github.com/J4ve/workforce-operations-platform">workforce-operations-platform</a></h4>
-<p>HR and operations tool for a client: staff records, schedules, pay cycles, onboarding and training.</p>
+<p>HR and operations tool for a client's 30+ person team: staff records, schedules, pay cycles, onboarding and training.</p>
 <sub><b>Next.js · TypeScript · Supabase · Drizzle</b></sub>
 
 </td>
 <td width="50%" valign="top">
 
 <h4><a href="https://github.com/J4ve/discord-workforce-automation">discord-workforce-automation</a></h4>
-<p>Discord bot that posted shift reminders and kept track of activity for a team of 30 or more.</p>
+<p>Discord bot for shift reminders and activity tracking.</p>
 <sub><b>Python · discord.py · SQLite · aiohttp</b></sub>
 
 </td>
