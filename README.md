@@ -60,9 +60,9 @@ AI automations and dev work on [yapii.com](https://yapii.com).
 <tr>
 <td width="50%" valign="top">
 
-<h4><a href="https://github.com/J4ve/space-agency-management-system">space-agency-management-system</a></h4>
-<p>Console tool for planning space missions: expeditions, spacecraft, research projects and inventory. A three person team project for our OOP course.</p>
-<sub><b>Java · OOP</b></sub>
+<h4><a href="https://github.com/J4ve/cv-object-sorting">cv-object-sorting</a></h4>
+<p>Tells cardboard, glass, metal, paper and plastic apart from a photo or a live webcam, at 88% accuracy on held-out test images. The vision half of a waste sorting robot, a six person team project for our Computer Vision course.</p>
+<sub><b>Python · TensorFlow · MobileNetV2 · OpenCV</b></sub>
 </td>
 <td width="50%" valign="top">
 
