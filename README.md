@@ -30,7 +30,7 @@ AI automations and dev work on [yapii.com](https://yapii.com).
 <td width="50%" valign="top">
 
 <h4><a href="https://github.com/J4ve/chess-skill-estimation-attention">chess-skill-estimation-attention</a></h4>
-<p>My thesis. Works out how strong a chess player is from the moves they make, and flags moves that look out of place. Builds on the published RatingNet research code.</p>
+<p>My thesis. Works out how strong a chess player is from the moves they make, and flags moves that look out of place. Builds on the published RatingNet research code. Off by 172 rating points on average across 255,000 test games.</p>
 <sub><b>PyTorch · python-chess · Stockfish</b></sub>
 
 </td>
@@ -46,13 +46,13 @@ AI automations and dev work on [yapii.com](https://yapii.com).
 <td width="50%" valign="top">
 
 <h4><a href="https://github.com/J4ve/music-engagement-mlp">music-engagement-mlp</a></h4>
-<p>Predicts how much engagement a music video gets, from a Spotify and YouTube dataset, using a small neural network.</p>
+<p>Predicts how much engagement a music video gets, from a Spotify and YouTube dataset, using a small neural network. R² of 0.58 on 4,144 test songs.</p>
 <sub><b>Python · Keras · Jupyter</b></sub>
 </td>
 <td width="50%" valign="top">
 
 <h4><a href="https://github.com/J4ve/neurosymbolic-llm-hallucination-mitigation">neurosymbolic-llm-hallucination-mitigation</a></h4>
-<p>Checks whether an LLM's reasoning actually holds up, by turning it into logic and testing it.</p>
+<p>Checks whether an LLM's reasoning actually holds up, by turning it into logic and testing it. Cut confident wrong answers on unanswerable problems from about 20% to 2%.</p>
 <sub><b>Python · Z3 · few-shot prompting</b></sub>
 
 </td>
@@ -67,7 +67,7 @@ AI automations and dev work on [yapii.com](https://yapii.com).
 <td width="50%" valign="top">
 
 <h4><a href="https://github.com/J4ve/adaptive-image-contrast-enhancer">adaptive-image-contrast-enhancer</a></h4>
-<p>Brings detail back out of dark or washed out grayscale photos, then scores the result against the original with PSNR and SSIM.</p>
+<p>Brings detail back out of dark or washed out grayscale photos, then scores the result against the original with PSNR and SSIM. Averages 26.6 dB PSNR and 0.84 SSIM over 200 images.</p>
 <sub><b>Python · NumPy · Jupyter</b></sub>
 </td>
 </tr>
@@ -141,7 +141,7 @@ Closed source. The code belongs to the companies I built it for, so these descri
 <td width="33%" valign="top">
 
 <a href="https://github.com/J4ve/cloud-ecommerce-azure"><b>cloud-ecommerce-azure</b></a><br/>
-<sub>Cloud computing final, team of four</sub>
+<sub>Cloud computing final, team of three</sub>
 
 </td>
 <td width="33%" valign="top">
