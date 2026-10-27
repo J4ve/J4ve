@@ -14,8 +14,8 @@
 
 **Thesis** · [Real-time chess skill estimation and anomaly detection](https://github.com/J4ve/chess-skill-estimation-attention) · attention-augmented CNN-BiLSTM · PyTorch, python-chess, Stockfish, Leela Chess Zero
 
-**Full-Stack Software Developer** · [Homexa](https://homexa.com) · full-time, remote · Sep 2026 to present
-AI automations and dev work on [yapii.com](https://yapii.com).
+**AI & Tech Virtual Assistant** · [Homexa](https://homexa.com) / Club Wealth · full-time, remote · Sep 2026 to present
+Full-stack work on [Yapii](https://yapii.com), a real-estate CRM with an AI caller. 376 merged PRs in three weeks with zero reverts, about 32% of the team's merged changes.
 
 **Full-Stack Developer, freelance** · Dec 2025 to present · remote
 - HR management platform for a client: employee records, approvals, shift scheduling, payroll tracking. Deployed on Vercel, with a Discord bot for the team alongside it.
@@ -105,8 +105,8 @@ Closed source. The code belongs to the companies I built it for, so these descri
 <td width="50%" valign="top">
 
 <h4><a href="https://yapii.com">Yapii</a></h4>
-<p>SaaS at Homexa: AI automations, dev work, and migrating users from other CRMs.</p>
-<sub><b><a href="https://yapii.com">yapii.com</a> · work project, code is private</b></sub>
+<p>Real-estate CRM and AI-calling platform at Homexa. Cut the dashboard's account check from ~115 s to 0.05 s, tripled daily email volume (973 to 3,144) under SES's 0.1% complaint threshold, and enforced calling-hour rules in the AI dialer.</p>
+<sub><b>TypeScript · React · Express · PostgreSQL · AWS SES · LiveKit</b></sub>
 
 </td>
 </tr>
