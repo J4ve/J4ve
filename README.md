@@ -14,7 +14,7 @@
 
 **Thesis** · [Real-time chess skill estimation and anomaly detection](https://github.com/J4ve/chess-skill-estimation-attention) · attention-augmented CNN-BiLSTM · PyTorch, python-chess, Stockfish, Leela Chess Zero
 
-**AI & Tech Virtual Assistant** · [Homexa](https://homexa.com) / Club Wealth · full-time, remote · Sep 2026 to present
+**Full-Stack Software and Automations Developer** · [Homexa](https://homexa.com) / Club Wealth · full-time, remote · Sep 2026 to present
 Full-stack work on [Yapii](https://yapii.com), a real-estate CRM with an AI caller. 376 merged PRs in three weeks with zero reverts, about 32% of the team's merged changes.
 
 **Full-Stack Developer, freelance** · Dec 2025 to present · remote
